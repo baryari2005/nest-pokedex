@@ -30,8 +30,6 @@ export class PokemonService {
 
   }
 
-
-
   findAll() {
     return `This action returns all pokemon`;
   }
